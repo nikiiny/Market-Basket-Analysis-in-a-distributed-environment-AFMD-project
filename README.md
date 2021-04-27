@@ -4,4 +4,4 @@ The task is to implement a system finding frequent itemsets (aka market-basket a
 
 The analysis compares the Apriori and FP-Growth algorithms performances.
 
-The link to the google colaboratory notebook is the following https://colab.research.google.com/drive/1TY340SxelGGSlWD3YiweSzYxIhhmmSp6#scrollTo=eumsuppZxnOl
+The link to the google colaboratory notebook is the following: https://colab.research.google.com/drive/1TY340SxelGGSlWD3YiweSzYxIhhmmSp6#scrollTo=eumsuppZxnOl
